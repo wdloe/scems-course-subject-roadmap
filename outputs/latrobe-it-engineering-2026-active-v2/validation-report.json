@@ -1,0 +1,28 @@
+{
+  "status": "completed_with_issues",
+  "unresolved_subject_references": [
+    "CSE5INV"
+  ],
+  "note": "Legacy fallbacks are stored separately and are not part of the 2026 subject catalogue.",
+  "recovered_targeted_subjects": [
+    "STA5ARM",
+    "STA5MA",
+    "STA5MB",
+    "STA5THB",
+    "STM1001",
+    "STM2EPS",
+    "STM2SC",
+    "STM3DSP",
+    "STM3LPP",
+    "STM4PSD",
+    "STM5IPL"
+  ],
+  "legacy_subject_fallbacks": [
+    "CSE4OOF",
+    "CSE5UX"
+  ],
+  "legacy_fallbacks_resolve_references": [
+    "CSE4OOF",
+    "CSE5UX"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "academic_year": 2026,
+  "discipline": "IT and engineering",
+  "snapshot_rule": "Started from zero: active courses only, then active respective areas of study and 2026 subjects only.",
+  "course_count": 43,
+  "bachelor_count": 18,
+  "master_count": 25,
+  "area_of_study_count": 40,
+  "subject_count": 289,
+  "legacy_subject_fallback_count": 2,
+  "legacy_fallback_file": "legacy-subject-fallbacks.json"
+}

@@ -1,0 +1,4471 @@
+[
+  {
+    "code": "MAJOR-ACC-1",
+    "academic_year": 2026,
+    "name": "Accounting",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MAJOR-ACC-1",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 15,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "ACC1AMD",
+                  "name": "FUNDAMENTALS OF ACCOUNTING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ACC1AMD",
+                  "order": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "ACC3MAC",
+                  "name": "INTEGRATED ACCOUNTING PROJECT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ACC3MAC",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "ACC3AUD",
+                  "name": "AUDITING AND ASSURANCE",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ACC3AUD",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "ACC3AFA",
+                  "name": "ADVANCED ACCOUNTING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ACC3AFA",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "ACC3TAX",
+                  "name": "TAXATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ACC3TAX",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 45,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "ACC2CAD",
+                  "name": "COST INFORMATION FOR DECISION MAKING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ACC2CAD",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "ACC2CRE",
+                  "name": "FINANCIAL ACCOUNTING AND REPORTING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ACC2CRE",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "ACC2001",
+                  "name": "ACCOUNTING INFORMATIONAL SYSTEMS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ACC2001",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MAJOR-DATA",
+    "academic_year": 2026,
+    "name": "Data science",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MAJOR-DATA",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE1PE",
+                  "name": "PROGRAMMING ENVIRONMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1PE",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "STM1001",
+                  "name": "MAKING SENSE OF DATA",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STM1001",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE2DBF",
+                  "name": "DATABASE FUNDAMENTALS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2DBF",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "STM2SC",
+                  "name": "STATISTICAL COMPUTING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STM2SC",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "STM3DSP",
+                  "name": "DATA SCIENCE PROJECTS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STM3DSP",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3BDC",
+                  "name": "BIG DATA MANAGEMENT ON THE CLOUD",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3BDC",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3CI",
+                  "name": "COMPUTATIONAL INTELLIGENCE FOR DATA ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3CI",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "STM3LPP",
+                  "name": "LINEAR PROGRAMMING AND PROBABILITY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STM3LPP",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MAJOR-ECO-2",
+    "academic_year": 2026,
+    "name": "Economics",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MAJOR-ECO-2",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 45,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "ECO2CFC",
+                  "name": "CONSUMERS, FIRMS AND COMPETITION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ECO2CFC",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "ECM2001",
+                  "name": "ECONOMIC DATA ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ECM2001",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "ECO2ERE",
+                  "name": "PRINCIPLES OF ENVIRONMENTAL AND RESOURCE ECONOMICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ECO2ERE",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 15,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "ECO1RIG",
+                  "name": "RECESSIONS, INFLATION AND ECONOMIC GROWTH",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ECO1RIG",
+                  "order": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "ECO3PPI",
+                  "name": "PUBLIC POLICY AND ITS IMPACTS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ECO3PPI",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "ECO3CMF",
+                  "name": "COMPETITION, MARKET FAILURE AND GOVERNMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ECO3CMF",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "ECO3001",
+                  "name": "ECONOMIC DEVELOPMENT AND POLICY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ECO3001",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "ECO3002",
+                  "name": "MACROECONOMIC POLICY AND APPLICATIONS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ECO3002",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MAJOR-MGT-1",
+    "academic_year": 2026,
+    "name": "Management",
+    "type": "StudyFlex Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MAJOR-MGT-1",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 15,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MGT1OBE",
+                  "name": "ORGANISATIONAL BEHAVIOUR",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MGT1OBE",
+                  "order": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 45,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MGT2BET",
+                  "name": "BUSINESS ETHICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MGT2BET",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "MGT2IMG",
+                  "name": "MANAGING ACROSS BORDERS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MGT2IMG",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "MGT2004",
+                  "name": "OPERATIONS MANAGEMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MGT2004",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MGT3003",
+                  "name": "MANAGEMENT CONSULTING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MGT3003",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MGT3006",
+                  "name": "SOCIAL ENTREPRENEURSHIP",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MGT3006",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "MGT3LWM",
+                  "name": "LEADERSHIP",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MGT3LWM",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "MGT3SMG",
+                  "name": "STRATEGIC MANAGEMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MGT3SMG",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MAJOR-MKT-1",
+    "academic_year": 2026,
+    "name": "Marketing",
+    "type": "StudyFlex Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MAJOR-MKT-1",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 15,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MKT1002",
+                  "name": "INTEGRATED MARKETING COMMUNICATIONS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MKT1002",
+                  "order": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MKT3SMK",
+                  "name": "STRATEGIC MARKETING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MKT3SMK",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MKT3SEM",
+                  "name": "SOCIAL MARKETING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MKT3SEM",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "MKT3IMK",
+                  "name": "INTERNATIONAL MARKETING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MKT3IMK",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "MKT3MRE",
+                  "name": "MARKETING RESEARCH",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MKT3MRE",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 45,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MKT2CBE",
+                  "name": "CONSUMER BEHAVIOUR",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MKT2CBE",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "MKT2BBM",
+                  "name": "BRAND MANAGEMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MKT2BBM",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "MKT2001",
+                  "name": "AI-POWERED MARKETING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MKT2001",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-ARF01",
+    "academic_year": 2026,
+    "name": "Artificial intelligence",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-ARF01",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level two ",
+          "credit_points": 45,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE2AIF",
+                  "name": "ARTIFICIAL INTELLIGENCE FUNDAMENTALS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2AIF",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE2SAD",
+                  "name": "SYSTEM ANALYSIS AND DESIGN",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2SAD",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3PPE",
+                  "name": "PROFESSIONAL PRACTICES AND ENTREPRENEURSHIP IN INFORMATION TECHNOLOGY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3PPE",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3NLP",
+                  "name": "NATURAL LANGUAGE PROCESSING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3NLP",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3001",
+                  "name": "DEEP LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3001",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3CI",
+                  "name": "COMPUTATIONAL INTELLIGENCE FOR DATA ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3CI",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3VIS",
+                  "name": "IMAGE PROCESSING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3VIS",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level one ",
+          "credit_points": 15,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MAT1001",
+                  "name": "TOOLS FOR MODELLING THE WORLD",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MAT1001",
+                  "order": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-BUA01",
+    "academic_year": 2026,
+    "name": "Business analytics",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-BUA01",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 45,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "BUS2002",
+                  "name": "CUSTOMER ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS2002",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "BUS2004",
+                  "name": "PREDICTIVE ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS2004",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "BUS2003",
+                  "name": "DATA ENGINEERING & PYTHON",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS2003",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 15,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "BUS1001",
+                  "name": "DATA ANALYTICS CONCEPTS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS1001",
+                  "order": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "BUS3003",
+                  "name": "ANALYTICS PROJECT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS3003",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "BUS3SSP",
+                  "name": "SUPPLY CHAIN ANALYTICS AND DIGITALISATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS3SSP",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "BUS3005",
+                  "name": "ARTIFICIAL INTELLIGENCE AND BUSINESS AUTOMATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS3005",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3CI",
+                  "name": "COMPUTATIONAL INTELLIGENCE FOR DATA ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3CI",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-CSE001",
+    "academic_year": 2026,
+    "name": "Software engineering",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-CSE001",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 15,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE2ALG",
+                  "name": "ALGORITHMS AND DATA STRUCTURES",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2ALG",
+                  "order": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 45,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE1IIT",
+                  "name": "INSIDE INFORMATION TECHNOLOGY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1IIT",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE1PE",
+                  "name": "PROGRAMMING ENVIRONMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1PE",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE1OOF",
+                  "name": "OBJECT-ORIENTED PROGRAMMING FUNDAMENTALS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1OOF",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3MAD",
+                  "name": "MOBILE APPLICATION DEVELOPMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3MAD",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3PSD",
+                  "name": "PROFESSIONAL SOFTWARE DEVELOPMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3PSD",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3SMT",
+                  "name": "SOFTWARE MEASUREMENT AND TESTING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3SMT",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3CWA",
+                  "name": "CLOUD-BASED WEB APPLICATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3CWA",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-CSE002",
+    "academic_year": 2026,
+    "name": "Cloud analytics",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-CSE002",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone ",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3CWA",
+                  "name": "CLOUD-BASED WEB APPLICATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3CWA",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3PSD",
+                  "name": "PROFESSIONAL SOFTWARE DEVELOPMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3PSD",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3BDC",
+                  "name": "BIG DATA MANAGEMENT ON THE CLOUD",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3BDC",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3DMS",
+                  "name": "DATABASE MANAGEMENT SYSTEMS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3DMS",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE2DBF",
+                  "name": "DATABASE FUNDAMENTALS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2DBF",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE2DV",
+                  "name": "DATA VISUALIZATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2DV",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE1IIT",
+                  "name": "INSIDE INFORMATION TECHNOLOGY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1IIT",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE1PE",
+                  "name": "PROGRAMMING ENVIRONMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1PE",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-CSE003",
+    "academic_year": 2026,
+    "name": "Artificial intelligence",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-CSE003",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE2AIF",
+                  "name": "ARTIFICIAL INTELLIGENCE FUNDAMENTALS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2AIF",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE2DBF",
+                  "name": "DATABASE FUNDAMENTALS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2DBF",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3001",
+                  "name": "DEEP LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3001",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3CI",
+                  "name": "COMPUTATIONAL INTELLIGENCE FOR DATA ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3CI",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3VIS",
+                  "name": "IMAGE PROCESSING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3VIS",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3NLP",
+                  "name": "NATURAL LANGUAGE PROCESSING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3NLP",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE1IIT",
+                  "name": "INSIDE INFORMATION TECHNOLOGY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1IIT",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE1PE",
+                  "name": "PROGRAMMING ENVIRONMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1PE",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-CSE004",
+    "academic_year": 2026,
+    "name": "Network engineering",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-CSE004",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3FNT",
+                  "name": "FRONTIERS IN NETWORK TECHNOLOGIES",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3FNT",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3INE",
+                  "name": "INTERMEDIATE NETWORK ENGINEERING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3INE",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3ANE",
+                  "name": "ADVANCED NETWORK ENGINEERING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3ANE",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3NSW",
+                  "name": "NETWORK SYSTEMS AND WEB SECURITY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3NSW",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE1PE",
+                  "name": "PROGRAMMING ENVIRONMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1PE",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE1IIT",
+                  "name": "INSIDE INFORMATION TECHNOLOGY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1IIT",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE2NEF",
+                  "name": "NETWORK ENGINEERING FUNDAMENTALS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2NEF",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE2WIN",
+                  "name": "WIRELESS NETWORK AND SECURITY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2WIN",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-CSE005",
+    "academic_year": 2026,
+    "name": "Information systems",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-CSE005",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE1PE",
+                  "name": "PROGRAMMING ENVIRONMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1PE",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE1IIT",
+                  "name": "INSIDE INFORMATION TECHNOLOGY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE1IIT",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 30,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "BUS2SMV",
+                  "name": "SOCIAL MEDIA AND VISUALISATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS2SMV",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "MKT2BBM",
+                  "name": "BRAND MANAGEMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MKT2BBM",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "BUS3DIG",
+                  "name": "DIGITAL BUSINESS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS3DIG",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3PSD",
+                  "name": "PROFESSIONAL SOFTWARE DEVELOPMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3PSD",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "BUS3SSP",
+                  "name": "SUPPLY CHAIN ANALYTICS AND DIGITALISATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS3SSP",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3BCC",
+                  "name": "BLOCKCHAIN AND CRYPTOCURRENCIES",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3BCC",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-DSC01",
+    "academic_year": 2026,
+    "name": "Data science",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-DSC01",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level three ",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "STM3DSP",
+                  "name": "DATA SCIENCE PROJECTS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STM3DSP",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3BDC",
+                  "name": "BIG DATA MANAGEMENT ON THE CLOUD",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3BDC",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3BCC",
+                  "name": "BLOCKCHAIN AND CRYPTOCURRENCIES",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3BCC",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "STM3LPP",
+                  "name": "LINEAR PROGRAMMING AND PROBABILITY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STM3LPP",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 15,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "STM1001",
+                  "name": "MAKING SENSE OF DATA",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STM1001",
+                  "order": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level  two ",
+          "credit_points": 45,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "STM2SC",
+                  "name": "STATISTICAL COMPUTING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STM2SC",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE2SAD",
+                  "name": "SYSTEM ANALYSIS AND DESIGN",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2SAD",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3PPE",
+                  "name": "PROFESSIONAL PRACTICES AND ENTREPRENEURSHIP IN INFORMATION TECHNOLOGY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3PPE",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-FIN01",
+    "academic_year": 2026,
+    "name": "Finance",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-FIN01",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level three",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 200,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "FIN3CSF",
+                  "name": "CASE STUDIES IN FINANCE",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/FIN3CSF",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "FIN3003",
+                  "name": "SUSTAINABLE AND RESPONSIBLE FINANCE",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/FIN3003",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "FIN3IPM",
+                  "name": "PORTFOLIO MANAGEMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/FIN3IPM",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "FIN3001",
+                  "name": "DERIVATIVES AND RISK MANAGEMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/FIN3001",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level two",
+          "credit_points": 45,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "FIN2SEV",
+                  "name": "INVESTMENT SECURITIES",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/FIN2SEV",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "FIN2002",
+                  "name": "CORPORATE FINANCE",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/FIN2002",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "FIN2003",
+                  "name": "INTERNATIONAL FINANCE",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/FIN2003",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 15,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "FIN1FSA",
+                  "name": "FINANCIAL STATEMENT ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/FIN1FSA",
+                  "order": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MJR-SFE01",
+    "academic_year": 2026,
+    "name": "Software engineering",
+    "type": "Major",
+    "credit_points": "120",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MJR-SFE01",
+    "structure": {
+      "type": "group",
+      "label": "Major",
+      "credit_points": 120,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level three ",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 100,
+          "children": [
+            {
+              "type": "group",
+              "label": "Capstone",
+              "credit_points": 15,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3SMT",
+                  "name": "SOFTWARE MEASUREMENT AND TESTING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3SMT",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 45,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE3MAD",
+                  "name": "MOBILE APPLICATION DEVELOPMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3MAD",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3PSD",
+                  "name": "PROFESSIONAL SOFTWARE DEVELOPMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3PSD",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3CWA",
+                  "name": "CLOUD-BASED WEB APPLICATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3CWA",
+                  "order": 200
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "label": "Level two ",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE2001",
+                  "name": "SOFTWARE DEVELOPMENT, SECURITY AND OPERATIONS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2001",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE2UI",
+                  "name": "USER INTERFACE DESIGN",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2UI",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE2SAD",
+                  "name": "SYSTEM ANALYSIS AND DESIGN",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE2SAD",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE3PPE",
+                  "name": "PROFESSIONAL PRACTICES AND ENTREPRENEURSHIP IN INFORMATION TECHNOLOGY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE3PPE",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MNRH-ENG01",
+    "academic_year": 2026,
+    "name": "Work integrated learning (Engineering)",
+    "type": "Minor",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MNRH-ENG01",
+    "structure": {
+      "type": "group",
+      "label": "Minor",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "EMS4WLA",
+                  "name": "WORK INTEGRATED LEARNING A",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/EMS4WLA",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "EMS4WLB",
+                  "name": "WORK INTEGRATED LEARNING B",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/EMS4WLB",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "MNRH-ENG02",
+    "academic_year": 2026,
+    "name": "Advanced research (Engineering)",
+    "type": "Minor",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/MNRH-ENG02",
+    "structure": {
+      "type": "group",
+      "label": "Minor",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "EMS4ARA",
+                  "name": "ADVANCED RESEARCH BASED LEARNING A",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/EMS4ARA",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "EMS4ARB",
+                  "name": "ADVANCED RESEARCH BASED LEARNING B",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/EMS4ARB",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-ADA01",
+    "academic_year": 2026,
+    "name": "Applied data analytics",
+    "type": "StudyFlex Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-ADA01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core choice",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "Students to select subjects to the value of 60 credit points from the list below.",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5BDC",
+                  "name": "BIG DATA MANAGEMENT ON THE CLOUD",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5BDC",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DEV",
+                  "name": "DATA EXPLORATION AND ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DEV",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DMI",
+                  "name": "DATA MINING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DMI",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DL",
+                  "name": "DEEP LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DL",
+                  "order": 300
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5006",
+                  "name": "CLOUD-BASE WEB APPLICATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5006",
+                  "order": 400
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5001",
+                  "name": "THESIS A",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5001",
+                  "order": 500
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE4001",
+                  "name": "NETWORK ENGINEERING FUNDAMENTALS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE4001",
+                  "order": 600
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-AIA01",
+    "academic_year": 2026,
+    "name": "Artificial intelligence analytics",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-AIA01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core choice",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "Students to select Level five subjects to the value of 60 credit points from the list below.",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5ML",
+                  "name": "MACHINE LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5ML",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DMI",
+                  "name": "DATA MINING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DMI",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5ALG",
+                  "name": "ALGORITHMS AND DATA STRUCTURES (PG)",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5ALG",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "MAT5OPT",
+                  "name": "OPTIMISATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MAT5OPT",
+                  "order": 300
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5NLP",
+                  "name": "NATURAL LANGUAGE PROCESSING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5NLP",
+                  "order": 400
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-ARF01",
+    "academic_year": 2026,
+    "name": "Artificial intelligence",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-ARF01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5ML",
+                  "name": "MACHINE LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5ML",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DL",
+                  "name": "DEEP LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DL",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5NLP",
+                  "name": "NATURAL LANGUAGE PROCESSING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5NLP",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5CV",
+                  "name": "COMPUTER VISION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5CV",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-BDC01",
+    "academic_year": 2026,
+    "name": "Big data and cloud computing",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-BDC01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core choice",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "Students to select Level five subjects to the value of 60 credit points from the list below.",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5ML",
+                  "name": "MACHINE LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5ML",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DMI",
+                  "name": "DATA MINING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DMI",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5006",
+                  "name": "CLOUD-BASE WEB APPLICATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5006",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5001",
+                  "name": "SPATIAL ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5001",
+                  "order": 300
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5MA",
+                  "name": "META ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5MA",
+                  "order": 400
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-BIA01",
+    "academic_year": 2026,
+    "name": "Business applications",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-BIA01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5DMI",
+                  "name": "DATA MINING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DMI",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "BUS4011",
+                  "name": "PRINCIPLES OF BUSINESS ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS4011",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5001",
+                  "name": "SPATIAL ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5001",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "BUS5PA",
+                  "name": "PREDICTIVE ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BUS5PA",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-BII01",
+    "academic_year": 2026,
+    "name": "Bioinformatics",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-BII01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5DL",
+                  "name": "DEEP LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DL",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DMI",
+                  "name": "DATA MINING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DMI",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "BIO5INF",
+                  "name": "BIOINFORMATICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/BIO5INF",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5MB",
+                  "name": "MODELS FOR BIOINFORMATICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5MB",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-CLA01",
+    "academic_year": 2026,
+    "name": "Cloud analytics",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-CLA01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5BDC",
+                  "name": "BIG DATA MANAGEMENT ON THE CLOUD",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5BDC",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DMI",
+                  "name": "DATA MINING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DMI",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5006",
+                  "name": "CLOUD-BASE WEB APPLICATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5006",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DL",
+                  "name": "DEEP LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DL",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-CSC02",
+    "academic_year": 2026,
+    "name": "Internet of things",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-CSC02",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5IPR",
+                  "name": "IOT PROGRAMMING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5IPR",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5IOT",
+                  "name": "IOT TECHNOLOGY AND APPLICATIONS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5IOT",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5PRP",
+                  "name": "IOT PROTOCOLS AND PLATFORMS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5PRP",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5ISE",
+                  "name": "SECURITY AND PRIVACY IN IOT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5ISE",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-CYB01",
+    "academic_year": 2026,
+    "name": "Cybersecurity",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-CYB01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5CRM",
+                  "name": "CYBER RISK MANAGEMENT AND COMPLIANCE",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5CRM",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5010",
+                  "name": "INSIDE THE MIND OF A HACKER",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5010",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5CFN",
+                  "name": "COMPUTER FORENSICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5CFN",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5PEN",
+                  "name": "PENETRATION TESTING PRINCIPLES",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5PEN",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-DMA01",
+    "academic_year": 2026,
+    "name": "Data modelling and analytics",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-DMA01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core choice",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "Students to select Level five subjects to the value of 60 credit points from the list below.",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "STA5ARM",
+                  "name": "ANALYSIS OF REPEATED MEASURES",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5ARM",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5MA",
+                  "name": "META ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5MA",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5MB",
+                  "name": "MODELS FOR BIOINFORMATICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5MB",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5ML",
+                  "name": "MACHINE LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5ML",
+                  "order": 300
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5DMI",
+                  "name": "DATA MINING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5DMI",
+                  "order": 400
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5001",
+                  "name": "SPATIAL ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5001",
+                  "order": 500
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-DME01",
+    "academic_year": 2026,
+    "name": "Digital media",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-DME01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core choice",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "Students to select Level five subjects to the value of 60 credit points from the list below.",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5UX",
+                  "name": "USER EXPERIENCE DESIGN & EVALUATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": null,
+                  "order": 0,
+                  "year_mismatch": true
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5CV",
+                  "name": "COMPUTER VISION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5CV",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5006",
+                  "name": "CLOUD-BASE WEB APPLICATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5006",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5INV",
+                  "name": "INFORMATION VISUALIZATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": null,
+                  "order": 300,
+                  "year_mismatch": true
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5001",
+                  "name": "THESIS A",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5001",
+                  "order": 400
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-ETR01",
+    "academic_year": 2026,
+    "name": "Electronics",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-ETR01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "ELE4RSD",
+                  "name": "ROBOTICS SYSTEM DESIGN",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ELE4RSD",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "ELE5FDD",
+                  "name": "ELECTRONIC DESIGN AUTOMATION - VHDL AND FPGAS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ELE5FDD",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "ELE5FPC",
+                  "name": "SIGNAL PROCESSING AND CONTROL",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ELE5FPC",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "ELE5FEM",
+                  "name": "EMBEDDED PROCESSORS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ELE5FEM",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-MDS01",
+    "academic_year": 2026,
+    "name": "Mathematical data science",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-MDS01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core choice",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "Students to select Level five subjects to the value of 60 credit points from the list below.",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "MAT5CCC",
+                  "name": "COMPLEXITY, CRYPTOGRAPHY AND COMPRESSION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MAT5CCC",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "MAT5OPT",
+                  "name": "OPTIMISATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/MAT5OPT",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5001",
+                  "name": "SPATIAL ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5001",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5MA",
+                  "name": "META ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5MA",
+                  "order": 300
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5ML",
+                  "name": "MACHINE LEARNING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5ML",
+                  "order": 400
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-NET01",
+    "academic_year": 2026,
+    "name": "Networking",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-NET01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5INE",
+                  "name": "INTERMEDIATE NETWORK ENGINEERING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5INE",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5ANE",
+                  "name": "ADVANCED NETWORK ENGINEERING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5ANE",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5002",
+                  "name": "WIRELESS NETWORK ENGINEERING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5002",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5NSW",
+                  "name": "NETWORK SYSTEMS AND WEB SECURITY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5NSW",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-SCI01",
+    "academic_year": 2026,
+    "name": "Quantum computing",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-SCI01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "PHY5001",
+                  "name": "ESSENTIALS OF QUANTUM INFORMATION SCIENCE",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/PHY5001",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "PHY5002",
+                  "name": "QUANTUM TECHNOLOGY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/PHY5002",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "PHY5003",
+                  "name": "QUANTUM SOFTWARE",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/PHY5003",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "PHY5004",
+                  "name": "QUANTUM INFORMATION THEORY FOR COMPUTER SCIENTISTS AND ENGINEERS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/PHY5004",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-SFE01",
+    "academic_year": 2026,
+    "name": "Software engineering",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-SFE01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5007",
+                  "name": "MOBILE APPLICATION DEVELOPMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5007",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5ALG",
+                  "name": "ALGORITHMS AND DATA STRUCTURES (PG)",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5ALG",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5009",
+                  "name": "SOFTWARE MEASUREMENT AND TESTING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5009",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5008",
+                  "name": "PROFESSIONAL SOFTWARE DEVELOPMENT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5008",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-SPT01",
+    "academic_year": 2026,
+    "name": "Sport analytics",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-SPT01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core choice",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "Students to select Level five subjects to the value of 60 credit points from the list below.",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "SPE5SAP",
+                  "name": "SPORT ANALYTICS IN PRACTICE",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/SPE5SAP",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "SPE5ASA",
+                  "name": "ADVANCED SPORT ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/SPE5ASA",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "SPE5PSA",
+                  "name": "PRINCIPLES OF SPORT ANALYTICS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/SPE5PSA",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5ARM",
+                  "name": "ANALYSIS OF REPEATED MEASURES",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5ARM",
+                  "order": 300
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5001",
+                  "name": "SPATIAL ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5001",
+                  "order": 400
+                },
+                {
+                  "type": "subject",
+                  "code": "STA5MA",
+                  "name": "META ANALYSIS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/STA5MA",
+                  "order": 500
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPE-TEL01",
+    "academic_year": 2026,
+    "name": "Telecommunications and networking",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPE-TEL01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5INE",
+                  "name": "INTERMEDIATE NETWORK ENGINEERING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5INE",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE4001",
+                  "name": "NETWORK ENGINEERING FUNDAMENTALS",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE4001",
+                  "order": 100
+                },
+                {
+                  "type": "subject",
+                  "code": "ELE5TEL",
+                  "name": "TELECOMMUNICATIONS ENGINEERING",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/ELE5TEL",
+                  "order": 200
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5NSW",
+                  "name": "NETWORK SYSTEMS AND WEB SECURITY",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5NSW",
+                  "order": 300
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPS-IBL01",
+    "academic_year": 2026,
+    "name": "Industry based learning",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPS-IBL01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5IBL",
+                  "name": "INDUSTRY BASED LEARNING",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5IBL",
+                  "order": 0
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Electives",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "unknown",
+                  "code": null,
+                  "name": null,
+                  "credit_points": null,
+                  "connector": null,
+                  "url": null,
+                  "order": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPS-IBL02",
+    "academic_year": 2026,
+    "name": "Industry based learning (Engineering)",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPS-IBL02",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "EMS5WLA",
+                  "name": "WORK INTEGRATED LEARNING A",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/EMS5WLA",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "EMS5WLB",
+                  "name": "WORK INTEGRATED LEARNING B",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/EMS5WLB",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPS-PRJ01",
+    "academic_year": 2026,
+    "name": "Project",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPS-PRJ01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5IDP",
+                  "name": "INDUSTRY DEVELOPMENT PROJECT",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5IDP",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5013",
+                  "name": "RESEARCH METHODS AND INNOVATION",
+                  "credit_points": 15,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5013",
+                  "order": 100
+                }
+              ]
+            },
+            {
+              "type": "group",
+              "label": "Electives",
+              "credit_points": 30,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 100,
+              "children": [
+                {
+                  "type": "unknown",
+                  "code": null,
+                  "name": null,
+                  "credit_points": null,
+                  "connector": null,
+                  "url": null,
+                  "order": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPS-PRJ02",
+    "academic_year": 2026,
+    "name": "Advanced research based learning (Engineering)",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPS-PRJ02",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "EMS5ARA",
+                  "name": "ADVANCED RESEARCH BASED LEARNING (A)",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/EMS5ARA",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "EMS5ARB",
+                  "name": "ADVANCED RESEARCH BASED LEARNING (B)",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/EMS5ARB",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "code": "SPS-THE01",
+    "academic_year": 2026,
+    "name": "Thesis",
+    "type": "Specialisation",
+    "credit_points": "60",
+    "academic_contact": null,
+    "status": "Approved",
+    "is_phasing_out": false,
+    "source_url": "https://handbook.latrobe.edu.au/aos/2026/SPS-THE01",
+    "structure": {
+      "type": "group",
+      "label": "Specialisation",
+      "credit_points": 60,
+      "connector": "AND",
+      "order": 0,
+      "children": [
+        {
+          "type": "group",
+          "label": "Level one",
+          "credit_points": 60,
+          "credit_points_max": null,
+          "connector": "AND",
+          "description": "",
+          "order": 0,
+          "children": [
+            {
+              "type": "group",
+              "label": "Core ",
+              "credit_points": 60,
+              "credit_points_max": null,
+              "connector": "AND",
+              "description": "",
+              "order": 0,
+              "children": [
+                {
+                  "type": "subject",
+                  "code": "CSE5001",
+                  "name": "THESIS A",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5001",
+                  "order": 0
+                },
+                {
+                  "type": "subject",
+                  "code": "CSE5TSB",
+                  "name": "THESIS B",
+                  "credit_points": 30,
+                  "connector": "AND",
+                  "url": "https://handbook.latrobe.edu.au/subjects/2026/CSE5TSB",
+                  "order": 100
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

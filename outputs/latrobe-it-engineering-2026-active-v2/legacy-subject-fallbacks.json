@@ -1,0 +1,32 @@
+[
+  {
+    "code": "CSE4OOF",
+    "academic_year": 2025,
+    "name": "OBJECT-ORIENTED PROGRAMMING FUNDAMENTALS (PG)",
+    "credit_points": 15,
+    "coordinator": "Rudri Kalaria",
+    "subject_type": "Postgraduate",
+    "year_level": "Year Level 4 - UG/Hons/1st Yr PG",
+    "aqf_level": "Level 8 - Graduate Diploma",
+    "available_as_elective": "Yes",
+    "available_to_exchange_students": "Yes",
+    "capstone": "No",
+    "status": "Approved",
+    "source_url": "https://handbook.latrobe.edu.au/subjects/2025/CSE4OOF",
+    "legacy_fallback": true
+  },
+  {
+    "code": "CSE5UX",
+    "academic_year": 2022,
+    "name": "USER EXPERIENCE DESIGN & EVALUATION",
+    "credit_points": 15,
+    "coordinator": "Huawei Tu",
+    "subject_type": "Postgraduate",
+    "year_level": "Year Level 5 - Masters",
+    "aqf_level": "Level 9 - Masters Degree",
+    "available_as_elective": "No",
+    "available_to_exchange_students": "Yes",
+    "source_url": "https://handbook.latrobe.edu.au/subjects/2022/CSE5UX",
+    "legacy_fallback": true
+  }
+]

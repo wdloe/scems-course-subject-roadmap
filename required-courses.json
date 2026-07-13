@@ -1,0 +1,18 @@
+{
+  "academic_year": 2026,
+  "discipline": "IT and engineering",
+  "source_url": "https://handbook.latrobe.edu.au/browse/By%20Discipline/ITand%20engineering",
+  "bachelors": [
+    "SHCEB", "SHCE", "LZCCS", "TB002IB", "SBCS", "TB005", "TB005SP",
+    "TB005TS", "SBCY", "TB001O", "TB004SP", "TB003SY", "SZCYC", "SZCYCR",
+    "SZCYPS", "SHENIB", "SHENI", "RBC", "SBIT", "SBITO", "SBITSD"
+  ],
+  "masters": [
+    "TM010", "TM010O", "TM011", "TM011O", "TM011SY", "TM013", "SMAI",
+    "SMAIO", "LMBAN", "BM007", "BM014", "BM005", "BM015", "TM005",
+    "SMCEMB", "SMCEM", "TM009", "TM003", "TM003O", "SMCYB", "TM014",
+    "SMDS", "SMDSO", "TM001B", "TM001", "LMEM", "SMINCT", "TM015",
+    "SMITB", "SMIT", "SMITO", "TM007SY", "AMIRL", "AM003O", "SMIOTB",
+    "TM006", "TM012B", "TM012", "TM004"
+  ]
+}

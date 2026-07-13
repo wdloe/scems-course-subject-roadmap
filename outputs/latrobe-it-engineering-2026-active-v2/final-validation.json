@@ -1,0 +1,29 @@
+{
+  "courses_count": 43,
+  "courses_duplicate_codes": 0,
+  "majors_count": 40,
+  "majors_duplicate_codes": 0,
+  "subjects_count": 300,
+  "subjects_duplicate_codes": 0,
+  "inactive_courses": [],
+  "inactive_majors": [],
+  "non_2026_source_urls": [],
+  "unresolved_subject_references": [
+    "CSE4OOF",
+    "CSE5INV",
+    "CSE5UX"
+  ],
+  "orphan_subjects": [],
+  "subject_reference_coverage": 0.9900990099009901,
+  "course_structure_credit_mismatches": [],
+  "major_structure_credit_mismatches": [],
+  "legacy_fallback_codes": [
+    "CSE4OOF",
+    "CSE5UX"
+  ],
+  "legacy_in_main_subjects": [],
+  "status": "pass_with_known_unresolved",
+  "unresolved_after_legacy_fallbacks": [
+    "CSE5INV"
+  ]
+}

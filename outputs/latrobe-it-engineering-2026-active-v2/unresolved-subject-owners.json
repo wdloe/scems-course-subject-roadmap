@@ -1,0 +1,252 @@
+[
+  {
+    "subject_code": "CSE4OOF",
+    "used_by": [
+      {
+        "type": "course",
+        "code": "SMIOTB",
+        "name": "Master of Internet of Things - Bendigo",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "CSE5INV",
+    "used_by": [
+      {
+        "type": "major",
+        "code": "SPE-DME01",
+        "name": "Digital media",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "CSE5UX",
+    "used_by": [
+      {
+        "type": "major",
+        "code": "SPE-DME01",
+        "name": "Digital media",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STA5ARM",
+    "used_by": [
+      {
+        "type": "major",
+        "code": "SPE-DMA01",
+        "name": "Data modelling and analytics",
+        "active": true
+      },
+      {
+        "type": "major",
+        "code": "SPE-SPT01",
+        "name": "Sport analytics",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STA5MA",
+    "used_by": [
+      {
+        "type": "major",
+        "code": "SPE-BDC01",
+        "name": "Big data and cloud computing",
+        "active": true
+      },
+      {
+        "type": "major",
+        "code": "SPE-DMA01",
+        "name": "Data modelling and analytics",
+        "active": true
+      },
+      {
+        "type": "major",
+        "code": "SPE-MDS01",
+        "name": "Mathematical data science",
+        "active": true
+      },
+      {
+        "type": "major",
+        "code": "SPE-SPT01",
+        "name": "Sport analytics",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STA5MB",
+    "used_by": [
+      {
+        "type": "major",
+        "code": "SPE-BII01",
+        "name": "Bioinformatics",
+        "active": true
+      },
+      {
+        "type": "major",
+        "code": "SPE-DMA01",
+        "name": "Data modelling and analytics",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STA5THB",
+    "used_by": [
+      {
+        "type": "course",
+        "code": "TM014",
+        "name": "Master of Data Science (Accelerated)  - Melbourne (Bundoora)",
+        "active": true
+      },
+      {
+        "type": "course",
+        "code": "SMDS",
+        "name": "Master of Data Science - Melbourne (Bundoora)",
+        "active": true
+      },
+      {
+        "type": "course",
+        "code": "SMDSO",
+        "name": "Master of Data Science - On-Line",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STM1001",
+    "used_by": [
+      {
+        "type": "major",
+        "code": "MAJOR-DATA",
+        "name": "Data science",
+        "active": true
+      },
+      {
+        "type": "major",
+        "code": "MJR-DSC01",
+        "name": "Data science",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STM2EPS",
+    "used_by": [
+      {
+        "type": "course",
+        "code": "SHCEB",
+        "name": "Bachelor of Civil Engineering (Honours) - Bendigo",
+        "active": true
+      },
+      {
+        "type": "course",
+        "code": "SHCE",
+        "name": "Bachelor of Civil Engineering (Honours) - Melbourne (Bundoora)",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STM2SC",
+    "used_by": [
+      {
+        "type": "major",
+        "code": "MAJOR-DATA",
+        "name": "Data science",
+        "active": true
+      },
+      {
+        "type": "major",
+        "code": "MJR-DSC01",
+        "name": "Data science",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STM3DSP",
+    "used_by": [
+      {
+        "type": "major",
+        "code": "MAJOR-DATA",
+        "name": "Data science",
+        "active": true
+      },
+      {
+        "type": "major",
+        "code": "MJR-DSC01",
+        "name": "Data science",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STM3LPP",
+    "used_by": [
+      {
+        "type": "major",
+        "code": "MAJOR-DATA",
+        "name": "Data science",
+        "active": true
+      },
+      {
+        "type": "major",
+        "code": "MJR-DSC01",
+        "name": "Data science",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STM4PSD",
+    "used_by": [
+      {
+        "type": "course",
+        "code": "SMDS",
+        "name": "Master of Data Science - Melbourne (Bundoora)",
+        "active": true
+      },
+      {
+        "type": "course",
+        "code": "SMDSO",
+        "name": "Master of Data Science - On-Line",
+        "active": true
+      },
+      {
+        "type": "course",
+        "code": "SMIOTB",
+        "name": "Master of Internet of Things - Bendigo",
+        "active": true
+      }
+    ]
+  },
+  {
+    "subject_code": "STM5IPL",
+    "used_by": [
+      {
+        "type": "course",
+        "code": "TM014",
+        "name": "Master of Data Science (Accelerated)  - Melbourne (Bundoora)",
+        "active": true
+      },
+      {
+        "type": "course",
+        "code": "SMDS",
+        "name": "Master of Data Science - Melbourne (Bundoora)",
+        "active": true
+      },
+      {
+        "type": "course",
+        "code": "SMDSO",
+        "name": "Master of Data Science - On-Line",
+        "active": true
+      }
+    ]
+  }
+]
